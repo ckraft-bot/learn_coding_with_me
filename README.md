@@ -15,3 +15,5 @@ __Prerequisites & Usuage__
  
 To follow along with this tutorial, you should have a basic understanding of Python programming language and access to Jupyter notebook. You will need to have Python 3.x installed on your computer.
 
+# Data Structures and Algorithms in Python
+Data Structures and Algorithms in Python - Full Course for Beginners: https://youtu.be/pkYVOmU3MgA
