@@ -6,3 +6,12 @@ I have learned python in an unstructured manner. Then i spent several months dab
 
 # LearnPython2
 Continuing my structured self-learning, I'll be following this curriculum for intermediate python with NeuralNine at: https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1.
+
+# Python Basic Datatypes
+
+This [tutorial](https://youtu.be/kvyT2x7JMps?si=aRzPyizXYonUjFTD) covers the basic data types in Python programming language, including integers, floating numbers, strings, booleans, lists, and so on. The tutorial comes with a [Jupyter notebook]() which you can downlaod and code along. The coded out [notebook]() is also available
+
+__Prerequisites & Usuage__
+ 
+To follow along with this tutorial, you should have a basic understanding of Python programming language and access to Jupyter notebook. You will need to have Python 3.x installed on your computer.
+
