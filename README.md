@@ -9,7 +9,7 @@ Continuing my structured self-learning, I'll be following this curriculum for in
 
 # Python Basic Datatypes
 
-This [tutorial](https://youtu.be/kvyT2x7JMps?si=aRzPyizXYonUjFTD) covers the basic data types in Python programming language, including integers, floating numbers, strings, booleans, lists, and so on. The tutorial comes with a [Jupyter notebook]() which you can downlaod and code along. The coded out [notebook]() is also available
+This [tutorial](https://youtu.be/kvyT2x7JMps?si=aRzPyizXYonUjFTD) covers the basic data types in Python programming language, including integers, floating numbers, strings, booleans, lists, and so on. The tutorial comes with a [Jupyter notebook](python_datatypes_template.ipynb) which you can downlaod and code along. The coded out [notebook](python_datatypes_solution.ipynb) is also available
 
 __Prerequisites & Usuage__
  
